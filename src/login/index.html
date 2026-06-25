@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="icon" href="../../public/Untitled design.png" type="image/png">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://code.jquery.com/jquery-4.0.0.js" integrity="sha256-9fsHeVnKBvqh3FB2HYu7g2xseAZ5MlN6Kz/qnkASV8U=" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="formulario">
+        <div class="round">
+            <img class="logo" src="../../public/logo.png" alt="logo">
+        </div>
+        <div class="wrap-input-label">
+            <label for="nome">Nome</label>
+            <input type="text" id="nome" placeholder="insira seu Nome">
+        </div>
+        <div class="wrap-input-label">
+            <label for="senha">Senha</label>
+            <input type="password" id="senha" placeholder="Insira sua senha">
+            <img src="../../public/view.png" alt="" id="eye" class="eye" width="25px" onclick="showPassword()">
+        </div>
+
+        <button class="btn-login" onclick="login()">login</button>
+    </div>
+    
+    <div class="errorDiv" id="error-modal">
+        <h3>credenciais incorretas</h3>
+        <button onclick="fecharError()">❌</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
