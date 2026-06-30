@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "desc": "Boné Nike Dri-FIT Club Unissex",
+        "imagem": "../../public/boné.avif",
+        "preco": 113.99
+    },
+    {
+        "id": 2,
+        "desc": "Camisa Brasil Nike I 2026/27 Fã Masculina",
+        "imagem": "../../public/brasil2.avif",
+        "preco": 237.49
+    },
+    {
+        "id": 3,
+        "desc": "Chinelo Nike Victori One Feminino",
+        "imagem": "../../public/chinelo.avif",
+        "preco": 170.99
+    },
+    {
+        "id": 1,
+        "desc": "Boné Nike Dri-FIT Club Unissex",
+        "imagem": "../../public/boné.avif",
+        "preco": 113.99
+    },
+    {
+        "id": 2,
+        "desc": "Camisa Brasil Nike I 2026/27 Fã Masculina",
+        "imagem": "../../public/brasil2.avif",
+        "preco": 237.49
+    },
+    {
+        "id": 3,
+        "desc": "Chinelo Nike Victori One Feminino",
+        "imagem": "../../public/chinelo.avif",
+        "preco": 170.99
+    },
+    {
+        "id": 1,
+        "desc": "Boné Nike Dri-FIT Club Unissex",
+        "imagem": "../../public/boné.avif",
+        "preco": 113.99
+    },
+    {
+        "id": 2,
+        "desc": "Camisa Brasil Nike I 2026/27 Fã Masculina",
+        "imagem": "../../public/brasil2.avif",
+        "preco": 237.49
+    },
+    {
+        "id": 3,
+        "desc": "Chinelo Nike Victori One Feminino",
+        "imagem": "../../public/chinelo.avif",
+        "preco": 170.99
+    },
+    {
+        "id": 3,
+        "desc": "Chinelo Nike Victori One Feminino",
+        "imagem": "../../public/chinelo.avif",
+        "preco": 170.99
+    }
+]
